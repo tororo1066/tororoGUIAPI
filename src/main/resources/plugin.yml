@@ -1,0 +1,8 @@
+name: TororoGUIAPI
+version: @version@
+main: tororoguiapi.tororoguiapi.TororoGUIAPI
+api-version: 1.17
+
+commands:
+  tororogui:
+    permission: tororoapi
